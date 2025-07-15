@@ -1,4 +1,4 @@
-# 📈 StockFetchr – Instant Stock Data at Your Fingertips 🚀
+# 📈 StockFetchr – Instant Stock Data at Your Fingertips
 
 StockFetchr is a lightweight, no-code desktop application built for traders, analysts, and enthusiasts who need fast access to historical stock data. With a retro-inspired interface and modern functionality, StockFetchr makes it simple to fetch stock data from global markets and export it into Excel — all in just a few clicks.
 
